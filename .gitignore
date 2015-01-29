@@ -13,3 +13,9 @@ bower_components
 
 # compass
 .sass-cache
+
+.divshot-cache
+
+divshot.json
+
+error.html
